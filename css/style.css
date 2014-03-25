@@ -20,6 +20,11 @@ body {
     font-size: 14px;
 }
 
+body > .cont {
+    margin-top: 20px;
+    padding: 0 10px;
+    width: 1190px;
+}
 
 .head {
     width: 100%;
@@ -187,7 +192,6 @@ a.external:after {
 .big_img {
     width: 1170px;
     height: 400px;
-	margin-top:20px;
     background-color: transparent;
     background-image: url("../images/head_big_img.jpg");
     background-repeat: no-repeat;
@@ -601,7 +605,8 @@ font-size: 10px;
 .popup .popup_window .popup_cont {
 	padding: 10px;
 }
-input[type="text"], input[type="password"]{
+
+input[type="text"], input[type="password"], input[type="number"] {
     width: 250px;
     padding: 10px 15px;
     border: none;
@@ -615,11 +620,12 @@ input[type="text"], input[type="password"]{
     -moz-box-shadow: 0px 3px 0px #e5e6e6;
     box-shadow: 0px 3px 0px #e5e6e6;
 }
-input[type="submit"], .button {
+
+button, input[type="submit"], .button {
     padding: 10px 15px;
     margin: 10px 0px;
     cursor: pointer;
-    color: #fff;
+    color: #fff !important;
     border: none;
     font-family: OpenSans, Arial, sans-serif !important;
     font-size: 14px;
@@ -634,6 +640,10 @@ input[type="submit"], .button {
     box-shadow: 0px 5px 0px #62b9b0;
 }
 
+.button-small {
+    padding: 5px 8px;
+}
+
 input[type="submit"]:hover, .button:hover {
     color: #fff;
     background-color: #e8645a;
@@ -641,6 +651,7 @@ input[type="submit"]:hover, .button:hover {
     -moz-box-shadow: 0px 5px 0px #e2534b;
     box-shadow: 0px 5px 0px #e2534b;
 }
+
 input[type="checkbox"],
 input[type="radio"] {
     display:none;
