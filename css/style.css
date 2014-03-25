@@ -659,7 +659,7 @@ input[type="radio"] {
 input[type="checkbox"] + label,
 input[type="radio"] + label {
     font-family: OpenSans, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     color: #7f8c8c;
     cursor: pointer;
 }
@@ -696,4 +696,4 @@ input[type="radio"]:disabled + label::before {
 }
 input[type="radio"]:checked:disabled + label::before {
     background-position: -56px -19px;
-}​
+}
