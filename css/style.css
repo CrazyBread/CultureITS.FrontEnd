@@ -728,8 +728,11 @@ span.field-validation-error{
 .big_img_registration{
     background-image: url("../images/head_big_img_reg.jpg");
     height: 300px;
+    margin-bottom: 20px;
 }
 .big_img_login{
+    background-color: #fff;
     background-image: url("../images/head_big_img_login.jpg");
     height: 300px;
+    margin-bottom: 20px;
 }
