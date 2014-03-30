@@ -725,3 +725,11 @@ span.field-validation-error{
     font-size: 16px;
     padding: 10px 0px;
 }
+.big_img_registration{
+    background-image: url("../images/head_big_img_reg.jpg");
+    height: 300px;
+}
+.big_img_login{
+    background-image: url("../images/head_big_img_login.jpg");
+    height: 300px;
+}
