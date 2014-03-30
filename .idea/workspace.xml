@@ -25,10 +25,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="297" column="8" selection-start="18135" selection-end="18135" vertical-scroll-proportion="0.9125214" vertical-offset="4517" max-vertical-offset="5695">
+                <state line="281" column="12" selection-start="17446" selection-end="17634" vertical-scroll-proportion="0.5540309" vertical-offset="4454" max-vertical-offset="5593">
                   <folding />
                 </state>
               </provider>
@@ -38,10 +38,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="738" column="18" selection-start="15093" selection-end="15093" vertical-scroll-proportion="0.9162561" vertical-offset="11988" max-vertical-offset="12665">
+                <state line="704" column="14" selection-start="14370" selection-end="14370" vertical-scroll-proportion="0.44939965" vertical-offset="11706" max-vertical-offset="12444">
                   <folding />
                 </state>
               </provider>
@@ -62,8 +62,8 @@
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/json.html" />
         <option value="$PROJECT_DIR$/json.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -176,11 +176,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -200,6 +200,20 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="297" column="8" selection-start="18135" selection-end="18135" vertical-scroll-proportion="0.0" vertical-offset="4517" max-vertical-offset="5695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="738" column="18" selection-start="15093" selection-end="15093" vertical-scroll-proportion="0.0" vertical-offset="12546" max-vertical-offset="12665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="253" column="91" selection-start="16178" selection-end="16178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5270">
@@ -265,16 +279,16 @@
         <state line="12" column="3" selection-start="344" selection-end="344" vertical-scroll-proportion="0.3279743" vertical-offset="0" max-vertical-offset="622" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="297" column="8" selection-start="18135" selection-end="18135" vertical-scroll-proportion="0.9125214" vertical-offset="4517" max-vertical-offset="5695">
+        <state line="704" column="14" selection-start="14370" selection-end="14370" vertical-scroll-proportion="0.44939965" vertical-offset="11706" max-vertical-offset="12444">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="738" column="18" selection-start="15093" selection-end="15093" vertical-scroll-proportion="0.9162561" vertical-offset="11988" max-vertical-offset="12665">
+        <state line="281" column="12" selection-start="17446" selection-end="17634" vertical-scroll-proportion="0.5540309" vertical-offset="4454" max-vertical-offset="5593">
           <folding />
         </state>
       </provider>

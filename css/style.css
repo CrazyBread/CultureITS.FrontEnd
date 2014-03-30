@@ -180,15 +180,6 @@ p{
 .line2 .breadcrumbs a:hover {
 	text-decoration: none;
 }
-
-.line2 .line2_angle {
-	width: 24px;
-	height: 12px;
-	background-color: transparent;
-	background-image: url("../images/line2_angle.png");
-	margin: 20px 0px 0px 0px;
-}
-
 .big_img {
     width: 1170px;
     height: 400px;
@@ -602,7 +593,9 @@ font-size: 10px;
 .popup .popup_window .popup_cont {
 	padding: 10px;
 }
-
+input[type="file"]{
+    padding: 10px 0px;
+}
 input[type="text"], input[type="password"], input[type="number"] {
     width: 250px;
     padding: 10px 15px;
@@ -698,6 +691,9 @@ input[type="radio"]:checked:disabled + label::before {
 
 .validation-summary-errors{
     background-color: #e8645a;
+    background-image: url("../images/error-box-bg.png");
+    background-repeat: no-repeat;
+    background-position: top left;
     -webkit-box-shadow: 0px 5px 0px #e2534b;
     -moz-box-shadow: 0px 5px 0px #e2534b;
     box-shadow: 0px 5px 0px #e2534b;
@@ -705,23 +701,14 @@ input[type="radio"]:checked:disabled + label::before {
     -moz-border-radius: 5px;
     border-radius: 5px;
     color: #ffffff;
-    padding: 10px 15px;
-}
-.validation-summary-errors .error-icon{
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 20px;
-    margin-top: 8px;
-    color: #cd4c42;
-    text-shadow: 0px 1px 0px #f3968f;
-}
-.validation-summary-errors .error-text{
-    display: inline-block;
-    vertical-align: top;
-    width: 1050px;
+    padding: 10px 15px 10px 80px;
+    min-height: 60px;
 }
 .validation-summary-errors .fa{
     font-size: 50px;
+}
+.validation-summary-errors ul{
+    list-style-image: url("../images/ul_bg_white.png");
 }
 .input-validation-error{
     -webkit-box-shadow: 0px 5px 0px #e2534b !important;
